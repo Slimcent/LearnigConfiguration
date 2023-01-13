@@ -1,5 +1,4 @@
 ﻿
-
 using Microsoft.Extensions.Configuration;
 
 Console.WriteLine("Hello, World!");
